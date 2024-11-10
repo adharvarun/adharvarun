@@ -14,7 +14,7 @@ adharv@rptor2222 ~]# neofetch
        ./ooosssso++osssssso+`        
       .oossssso-````/ossssss+`         Languages:
      -osssssso.      :ssssssso.        - Programming: Python, JavaScript, Web-Stack (HTML, CSS, JavaScript), 
-    :osssssss/        osssso+++.          Java & C++ (Basic Knowledge), Backend, SQL (Basic Knowledge)
+    :osssssss/        osssso+++.          Java & C++ (Basic Knowledge), Backend, SQL (Basic Knowledge), Arduino
    /ossssssss/        +ssssooo/-       - Speech: English, Hindi, French
  `/ossssso+/:-        -:/+osssso+-   
 `+sso+:-`                 `.-/+oso:  
