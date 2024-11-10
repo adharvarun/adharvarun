@@ -42,7 +42,7 @@
 
 - 💬 Ask me about **React, Python, Node Servers**
 
-- 📫 How to reach me **adharvarun.10@gmail.com**
+- 📫 Cannect with me at **adharvarun.10@gmail.com**
 
 - ⚡ Fun fact **I can type blindfolded**
 
