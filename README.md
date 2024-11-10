@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Adharv</h1>
+<h3>A passionate frontend developer in 9th Grade</h3>
+
 ```plaintext
 [adharv@rptor2222 ~]# neofetch
 
@@ -33,8 +36,6 @@
 [adharv@rptor2222 ~]# 
 
 ```
-<h1 align="center">Hi 👋, I'm Adharv</h1>
-<h3 align="center">A passionate frontend developer in 9th Grade</h3>
 
 - 🔭 I’m currently working on **SmartStep**
 
