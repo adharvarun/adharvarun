@@ -35,4 +35,5 @@ adharv@rptor2222 ~]#
 ```
 <a href="https://app.daily.dev/rptor2222"><img src="https://api.daily.dev/devcards/v2/YtMYAJfksmyD6y4mSS49Y.png?type=wide&r=508" width="652" alt="Rptor2222's Dev Card"/></a>
 
+**Loading Contributions...**
 ![Snake Animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
