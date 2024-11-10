@@ -1,7 +1,7 @@
 ```plaintext
 adharv@rptor2222 ~]# neofetch
 
-                 `-`                   adharv@rptor2222
+                 `-`                   **adharv@rptor2222**
                 .o+`                 
                `ooo/                   OS: Windows 11, iOS, Android, Arch Linux
               `+oooo:                  Uptime: 14 years
