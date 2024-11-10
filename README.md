@@ -33,4 +33,4 @@ adharv@rptor2222 ~]# neofetch
 adharv@rptor2222 ~]# 
 
 ```
-<a href="https://app.daily.dev/rptor2222"><img src="https://api.daily.dev/devcards/v2/YtMYAJfksmyD6y4mSS49Y.png?r=8zl&type=default" width="356" alt="Rptor2222's Dev Card"/></a>
+<a href="https://app.daily.dev/rptor2222"><img src="https://api.daily.dev/devcards/v2/YtMYAJfksmyD6y4mSS49Y.png?type=wide&r=508" width="652" alt="Rptor2222's Dev Card"/></a>
