@@ -1,5 +1,5 @@
 ```plaintext
-adharv@rptor2222 ~]# neofetch
+[adharv@rptor2222 ~]# neofetch
 
                  `-`                   adharv@rptor2222
                 .o+`                 
@@ -30,7 +30,7 @@ adharv@rptor2222 ~]# neofetch
                                        - Email: adharvarun.10@gmail.com
                                        - LinkedIn: [Adharv Arun](https://www.linkedin.com/in/adharv-arun)
 
-adharv@rptor2222 ~]# 
+[adharv@rptor2222 ~]# 
 
 ```
 <a href="https://app.daily.dev/rptor2222"><img src="https://api.daily.dev/devcards/v2/YtMYAJfksmyD6y4mSS49Y.png?type=wide&r=508" width="652" alt="Rptor2222's Dev Card"/></a>
