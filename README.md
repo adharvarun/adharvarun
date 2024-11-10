@@ -35,4 +35,4 @@ adharv@rptor2222 ~]#
 ```
 <a href="https://app.daily.dev/rptor2222"><img src="https://api.daily.dev/devcards/v2/YtMYAJfksmyD6y4mSS49Y.png?type=wide&r=508" width="652" alt="Rptor2222's Dev Card"/></a>
 
-(https://githubusercontent.com/Rptor2222/Rptor2222/github-contribution-grid-snake-dark.svg)
+[Snake Animation](https://raw.githubusercontent.com/Rptor2222/Rptor2222/github-contribution-grid-snake-dark.svg)
