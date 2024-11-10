@@ -18,7 +18,7 @@ adharv@rptor2222 ~]# neofetch
    /ossssssss/        +ssssooo/-       - Speech: English, Hindi, French
  `/ossssso+/:-        -:/+osssso+-   
 `+sso+:-`                 `.-/+oso:  
-`++:.                           `-/+/   Device:
+`++:.                          `-/+/   Device:
                                        - Username: adharv
                                        - PC: HP Victus 15
                                        - CPU: 12th Gen Intel Core i5-12450H
