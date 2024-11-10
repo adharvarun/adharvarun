@@ -31,3 +31,6 @@ adharv@rptor2222 ~]# neofetch
                                        - LinkedIn: [Adharv Arun](https://www.linkedin.com/in/adharv-arun)
 
 adharv@rptor2222 ~]# 
+
+```
+<a href="https://app.daily.dev/rptor2222"><img src="https://api.daily.dev/devcards/v2/YtMYAJfksmyD6y4mSS49Y.png?r=8zl&type=default" width="356" alt="Rptor2222's Dev Card"/></a>
