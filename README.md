@@ -25,7 +25,7 @@
                                        - Username: adharv
                                        - PC: HP Victus 15
                                        - CPU: 12th Gen Intel Core i5-12450H
-                                       - GPU 0: Intel UHD Graphics
+                                       - GPU 0: Intel(R) UHD Graphics
                                        - GPU 1: Nvidia GeForce RTX 3050 Laptop GPU
                                        - Memory: 16GB
 
@@ -43,7 +43,7 @@
 
 - 💬 Ask me about **React, Python, Node Servers**
 
-- 📫 Cannect with me at **adharvarun.10@gmail.com**
+- 📫 Connect with me at **adharvarun.10@gmail.com**
 
 - ⚡ Fun fact **I can type blindfolded**
 
