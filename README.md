@@ -37,7 +37,7 @@
 
 ```
 
-- 🔭 I’m currently working on **SmartStep**
+- 🔭 I’m currently working on !(**SmartStep**)[https://github.com/Rptor2222/SmartStep]
 
 - 🌱 I’m currently learning **Python, Full-Stack Development, AI, Arduino**
 
