@@ -37,7 +37,7 @@
 
 ```
 
-- 🔭 I’m currently working on [**SmartStep**](https://github.com/Rptor2222/SmartStep)
+- 🔭 I’m currently working on [**SmartStep**](https://github.com/SmartStep-Inc/SmartStep)
 
 - 🌱 I’m currently learning **Python, Full-Stack Development, AI, Arduino**
 
@@ -46,6 +46,8 @@
 - 📫 Connect with me at **adharvarun.10@gmail.com**
 
 - ⚡ Fun fact **I can type blindfolded**
+
+- I am in Github Organizations: [**SmartStep Inc.**](https://github.com/SmartStep-Inc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,6 +62,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rptor2222&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="rptor2222" /></p>
 
+
+**I use**
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) 
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+![PC](https://img.shields.io/badge/hp-Victus%1515%20-007DB8?style=for-the-badge&logo=hp&logoColor=white) 
+![RTX](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![Processor](https://img.shields.io/badge/Intel%20Core_i5_12_450H-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 
 **Loading Contributions...**
 ![Snake Animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
