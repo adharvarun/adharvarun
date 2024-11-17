@@ -62,8 +62,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rptor2222&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="rptor2222" /></p>
 
+**Loading Contributions...**
+![Snake Animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
-**I use**
+**I Use**
 <br>
 <br>
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
@@ -78,6 +80,3 @@
 ![PC](https://img.shields.io/badge/hp-Victus%2015%20-007DB8?style=for-the-badge&logo=hp&logoColor=white) 
 ![RTX](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 ![Processor](https://img.shields.io/badge/Intel%20Core_i5_12_450H-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
-
-**Loading Contributions...**
-![Snake Animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
