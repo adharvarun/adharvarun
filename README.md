@@ -79,4 +79,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![PC](https://img.shields.io/badge/hp-Victus%2015%20-007DB8?style=for-the-badge&logo=hp&logoColor=white) 
 ![RTX](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
-![Processor](https://img.shields.io/badge/Intel%20Core_i5_12-450H-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
+![Processor](https://img.shields.io/badge/Intel%20Core_i5_12450H-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
