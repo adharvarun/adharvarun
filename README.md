@@ -64,6 +64,8 @@
 
 
 **I use**
+<br>
+<br>
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) 
@@ -73,7 +75,7 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
-![PC](https://img.shields.io/badge/hp-Victus%1515%20-007DB8?style=for-the-badge&logo=hp&logoColor=white) 
+![PC](https://img.shields.io/badge/hp-Victus%2015%20-007DB8?style=for-the-badge&logo=hp&logoColor=white) 
 ![RTX](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 ![Processor](https://img.shields.io/badge/Intel%20Core_i5_12_450H-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 
