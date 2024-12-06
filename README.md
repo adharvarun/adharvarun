@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Adharv</h1>
-<h3>A passionate frontend developer in 9th Grade</h3>
+<h3>A passionate Full Stack and AI Developer in 9th Grade</h3>
 
 ```plaintext
 [adharv@rptor2222 ~]# neofetch
