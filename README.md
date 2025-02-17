@@ -45,6 +45,10 @@
 
 - 📫 Connect with me at **adharvarun.10@gmail.com**
 
+- 👨‍💻 All of my projects are available at [adharvarun.github.io/Portfolio](adharvarun.github.io/Portfolio)
+
+- 📄 Know about my experiences [adharvarub.github.io/Portfolio/Resume.pdf](adharvarub.github.io/Portfolio/Resume.pdf)
+
 - ⚡ Fun fact **I can type blindfolded**
 
 <h3 align="left">Connect with me:</h3>
