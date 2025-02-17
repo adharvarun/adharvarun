@@ -45,9 +45,9 @@
 
 - 📫 Connect with me at **adharvarun.10@gmail.com**
 
-- 👨‍💻 All of my projects are available at [adharvarun.github.io/Portfolio](adharvarun.github.io/Portfolio)
+- 👨‍💻 All of my projects are available in [My Portfolio](adharvarun.github.io/Portfolio)
 
-- 📄 Know about my experiences [adharvarub.github.io/Portfolio/Resume.pdf](adharvarub.github.io/Portfolio/Resume.pdf)
+- 📄 Know about my experiences in [My Resume](adharvarun.github.io/Portfolio/Resume.pdf)
 
 - ⚡ Fun fact **I can type blindfolded**
 
