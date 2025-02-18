@@ -4,12 +4,12 @@
 ```plaintext
 [adharv@rptor2222 ~]# neofetch
 
-                 `-`                   adharv@rptor2222
+                 `-`                   adharv@adharvsvictus
                 .o+`                 
                `ooo/                   OS: Windows 11, iOS, Android, Arch Linux
               `+oooo:                  Uptime: 14 years
-             `+oooooo:                 Host: VirtualBox 1.2
-             -+oooooo+:                Kernel: 5.9.12-arch1-1
+             `+oooooo:                 Host: adharvsvictus
+             -+oooooo+:                Kernel: 5.9.12-arch1-1, linux-zen
            `/:-:++oooo+:               IDE: VSCode
           `/++++/+++++++:              Terminal: Windows Terminal & Konsole
          `/++++++++++++++:           
