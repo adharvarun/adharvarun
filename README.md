@@ -6,7 +6,7 @@
 
                  `-`                   adharv@adharvsvictus
                 .o+`                 
-               `ooo/                   OS: Windows 11, iOS, Android, Arch Linux
+               `ooo/                   OS: Windows 11, iOS, Android, Arch Linux, Ubuntu on WSL
               `+oooo:                  Uptime: 14 years
              `+oooooo:                 Host: adharvsvictus
              -+oooooo+:                Kernel: 5.9.12-arch1-1, linux-zen
