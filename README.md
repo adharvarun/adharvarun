@@ -7,7 +7,7 @@
                  `-`                   adharv@rptor2222
                 .o+`                 
                `ooo/                   OS: Windows 11, iOS, Android, Arch Linux
-              `+oooo:                  Uptime: 14 years
+              `+oooo:                  Uptime: 15 years
              `+oooooo:                 Host: VirtualBox 1.2
              -+oooooo+:                Kernel: 5.9.12-arch1-1
            `/:-:++oooo+:               IDE: VSCode
