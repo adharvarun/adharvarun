@@ -47,8 +47,6 @@
 
 - 👨‍💻 All of my projects are available in [My Portfolio](https://adharvarun.github.io/Portfolio)
 
-- 📄 Know about my experiences in [My Resume](https://adharvarun.github.io/Portfolio/Resume.pdf)
-
 - ⚡ Fun fact **I can type blindfolded**
 
 <h3 align="left">Connect with me:</h3>
