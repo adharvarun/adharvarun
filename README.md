@@ -7,7 +7,7 @@
                  `-`                   adharv@adharvsvictus
                 .o+`                 
                `ooo/                   OS: Windows 11, iOS, Android, Arch Linux, Ubuntu on WSL
-              `+oooo:                  Uptime: 14 years
+              `+oooo:                  Uptime: 15 years
              `+oooooo:                 Host: adharvsvictus
              -+oooooo+:                Kernel: 5.9.12-arch1-1, linux-zen
            `/:-:++oooo+:               IDE: VSCode
@@ -37,7 +37,7 @@
 
 ```
 
-- 🔭 I’m currently working on [**SmartStep**](https://github.com/SmartStep-Inc/SmartStep)
+- 🔭 I’m currently working on [**AInstein**](https://github.com/adharvarun/AInstein)
 
 - 🌱 I’m currently learning **Python, Full-Stack Development, AI, Arduino**
 
