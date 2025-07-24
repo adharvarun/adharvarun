@@ -2,14 +2,14 @@
 <h3>A passionate Full Stack and AI Developer in 10th Grade</h3>
 
 ```plaintext
-[adharv@rptor2222 ~]# neofetch
+(base) [adharv@adharvsvictus ~]# neofetch
 
                  `-`                   adharv@adharvsvictus
                 .o+`                 
-               `ooo/                   OS: Windows 11, iOS, Android, Arch Linux, Ubuntu on WSL
+               `ooo/                   OS: Windows 11, iOS, Android, EndeavourOS, Ubuntu on WSL
               `+oooo:                  Uptime: 15 years
              `+oooooo:                 Host: adharvsvictus
-             -+oooooo+:                Kernel: 5.9.12-arch1-1, linux-zen
+             -+oooooo+:                Kernel: 6.15.7-arch1-1, linux
            `/:-:++oooo+:               IDE: VSCode
           `/++++/+++++++:              Terminal: Windows Terminal & Konsole
          `/++++++++++++++:           
@@ -23,7 +23,7 @@
 `+sso+:-`                 `.-/+oso:  
 `++:.                          `-/+/   Device:
                                        - Username: adharv
-                                       - PC: HP Victus 15
+    (Well, I use EndeavourOS)          - PC: HP Victus 15
                                        - CPU: 12th Gen Intel Core i5-12450H
                                        - GPU 0: Intel(R) UHD Graphics
                                        - GPU 1: Nvidia GeForce RTX 3050 Laptop GPU
@@ -33,7 +33,7 @@
                                        - Email: adharvarun.10@gmail.com
                                        - LinkedIn: [Adharv Arun](https://www.linkedin.com/in/adharv-arun)
 
-[adharv@rptor2222 ~]# 
+(base) [adharv@adharvsvictus ~]# 
 
 ```
 
