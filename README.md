@@ -23,7 +23,7 @@
 `+sso+:-`                 `.-/+oso:  
 `++:.                          `-/+/   Device:
                                        - Username: adharv
-    (Well, I use EndeavourOS)          - PC: HP Victus 15
+      (Well, I use EndeavourOS)        - PC: HP Victus 15
                                        - CPU: 12th Gen Intel Core i5-12450H
                                        - GPU 0: Intel(R) UHD Graphics
                                        - GPU 1: Nvidia GeForce RTX 3050 Laptop GPU
