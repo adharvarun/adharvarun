@@ -37,7 +37,7 @@
 
 ```
 
-- 🔭 I’m currently working on [**AInstein**](https://github.com/adharvarun/AInstein)
+- 🧠 I love exploring how code can solve real-world problems
 
 - 🌱 I’m currently learning **Python, Full-Stack Development, AI, Arduino**
 
@@ -45,9 +45,9 @@
 
 - 📫 Connect with me at **adharvarun.10@gmail.com**
 
-- 👨‍💻 All of my projects are available in [My Portfolio](https://adharvarun.github.io/Portfolio)
+- 👨‍💻 Check out [My Portfolio](https://adharvarun.tech)
 
-- ⚡ Fun fact **I can type blindfolded**
+- ⚡ Fun fact **I’ve used more brackets today than words in my essay.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
