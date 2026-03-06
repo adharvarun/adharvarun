@@ -7,7 +7,7 @@
                  `-`                   adharv@adharvsvictus
                 .o+`                 
                `ooo/                   OS: Windows 11, iOS, Android, EndeavourOS, Ubuntu on WSL
-              `+oooo:                  Uptime: 15 years
+              `+oooo:                  Uptime: 16 years
              `+oooooo:                 Host: adharvsvictus
              -+oooooo+:                Kernel: 6.15.7-arch1-1, linux
            `/:-:++oooo+:               IDE: VSCode
